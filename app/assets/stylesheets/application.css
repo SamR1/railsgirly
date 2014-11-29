@@ -36,10 +36,12 @@ footer {
   left: 0; 
   right: 0;
   font-family: 'Pacifico';
+  font-size: 14px
 }
 
 table, td, th { 
- vertical-align: middle; border: none; 
+ vertical-align: middle; border: none;
+  padding: 7px;
 }
 
 th { 
@@ -48,4 +50,8 @@ th {
 
 .navbar-custom {
   font-family: 'Lobster', cursive;
+}
+
+.menu-custom {
+  font-family: 'Open Sans', sans-serif;
 }
