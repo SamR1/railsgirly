@@ -14,7 +14,38 @@
  *= require_self
  */
 
-body { padding-top: 60px; }
-footer { margin-top: 100px; }
-table, td, th { vertical-align: middle; border: none; }
-th { border-bottom: 1px solid #DDD; }
+body { 
+  padding-top: 150px; 
+  background: lightgrey;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  color: #708090;
+}
+
+footer { 
+  margin-top: 100px; 
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  position: absolute; 
+  bottom: 0;
+  left: 0; 
+  right: 0;
+  font-family: 'Pacifico';
+}
+
+table, td, th { 
+ vertical-align: middle; border: none; 
+}
+
+th { 
+  border-bottom: 1px solid #DDD; 
+}
+
+.navbar-custom {
+  font-family: 'Lobster', cursive;
+}
