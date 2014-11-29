@@ -3,4 +3,4 @@
 Application Idea créée lors du Rails Girls Lyon :)
 
 * http://railsgirly.lyonrb.fr
-* http://guides.railsgirls.com/
+* http://guides.railsgirls.com
